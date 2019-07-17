@@ -1,0 +1,7 @@
+fields:
+  pageTitle: Sample 1 Page Title
+placeholders:
+  jss-main:
+  - componentName: BlogHeader
+      fields:
+        heading: Using GraphQL with JSS

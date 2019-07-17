@@ -1,0 +1,8 @@
+fields:
+  pageTitle: Getting Started with Sitecore JSS + React
+placeholders:
+  jss-header:
+  - componentName: BlogHeader
+    fields:
+      heading: Getting Started with Sitecore JSS + React
+      subtext: by Tony Mamedbekov

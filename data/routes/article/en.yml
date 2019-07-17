@@ -1,0 +1,7 @@
+fields:
+  pageTitle: Articles
+placeholders:
+  jss-header:
+  - componentName: BlogHeader
+    fields:
+      heading: JSS Driven Blog

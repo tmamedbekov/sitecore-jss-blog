@@ -1,0 +1,7 @@
+fields:
+  pageTitle: GraphQL | Sitecore JSS
+placeholders:
+  jss-main:
+  - componentName: BlogHeader
+    fields:
+      heading: Using GraphQL with JSS
